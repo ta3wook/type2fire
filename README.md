@@ -1,4 +1,4 @@
-![type2fire banner](./assets/type2fire_banner.png)
+![type2fire banner](./assets/banner.png)
 
 # type2fire
 
